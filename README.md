@@ -48,9 +48,9 @@ curl -O https://raw.githubusercontent.com/TrapBeyond594/RustDesk-Universal-Setup
 
 ## 📂 Информация о репозитории
 
-- **Ветка**: `rustdesk-universal-manager`
+- **Ветка**: `rustdesk-universal-setup`
 - **Автор**: `TrapBeyond594`
-- **Репозиторий**: `TrapBeyond594/July-Google`
+- **Репозиторий**: `TrapBeyond594/RustDesk-Universal-Setup-Manager`
 
 ---
 
