@@ -20,7 +20,7 @@
 Скопируйте и вставьте следующую команду в терминал вашего сервера:
 
 ```bash
-curl -O https://raw.githubusercontent.com/TrapBeyond594/July-Google/rustdesk-universal-manager/rustdesk-manager.sh && chmod +x rustdesk-manager.sh && sudo ./rustdesk-manager.sh
+curl -O https://raw.githubusercontent.com/TrapBeyond594/RustDesk-Universal-Setup-Manager/rustdesk-universal-setup/rustdesk-manager.sh && chmod +x rustdesk-manager.sh && sudo ./rustdesk-manager.sh
 ```
 
 ---
